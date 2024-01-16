@@ -1,4 +1,4 @@
-export const projectId = "vl2j8045";
+export const projectId = "8t2ppr8u";
 export const dataset = "production";
 
 // Always enable CDN
